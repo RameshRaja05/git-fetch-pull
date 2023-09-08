@@ -2,6 +2,6 @@ name="Ramesh"
 
 def greeting():
   username=input("enter your username: ")
-  return f"Hi there,{username} welcome to our App. Here is {Ramesh} who is a founder of this app"
+  return f"Hi there,{username} welcome to our App. Here is {name} who is a founder of this app"
 
 print(greeting())
